@@ -1,10 +1,15 @@
 
 ### Olá! Eu sou o Matheus Yokoo 👋🏻
 
+##
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/japa.yokoo/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-yokoo-790458261/)
 
-![Yokoo GitHub stats](https://github-readme-stats.vercel.app/api?username=111Yokoo&show_icons=true&theme=dracula)
+<div>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=111Yokoo&show_icons=true&theme=dracula">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=111Yokoo&layout=compact&theme=dracula">
+</div>
 
 ### Tecnologia que eu uso no meu dia
 
@@ -18,6 +23,7 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br>
 
+##
 
 ### Email para contato:
 <p> yokoomatheus@gmail.com </p>
