@@ -6,7 +6,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/japa.yokoo/)
 
 <div>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=111Yokoo&show_icons=true&theme=dracula">
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=111Yokoo&layout=compact&theme=dracula">
 </div>
 
