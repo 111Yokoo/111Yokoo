@@ -8,7 +8,11 @@ Olá! Sou Matheus Yokoo, desenvolvedor Front-end. Técnico em Análise e Desenvo
   <img src="https://nirzak-streak-stats.vercel.app/?user=111Yokoo&theme=dark&hide_border=true" height="180" width="49%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=111Yokoo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180" width="49%">
 </p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/111Yokoo/111Yokoo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/111Yokoo/111Yokoo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/111Yokoo/111Yokoo/output/github-snake.svg" />
+</picture>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Japa.Yokoo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-dozono-yokoo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yokoomatheus@gmail.com) 
